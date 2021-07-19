@@ -1,0 +1,3 @@
+*.out
+*.o
+ex00/ft_display_file

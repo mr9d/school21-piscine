@@ -1,0 +1,7 @@
+*.out
+*.o
+rush-02
+srcs/.*
+.DS_Store
+.vscode/
+qwe/

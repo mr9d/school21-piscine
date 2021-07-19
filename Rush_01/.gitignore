@@ -1,0 +1,4 @@
+*.out
+*.o
+build.sh
+test/
