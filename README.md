@@ -6,6 +6,8 @@ Solutions for School21 ([School42](https://42.fr/en/homepage/) franchise from Fr
 
 In June 2021 I challenge myself to pass this course even though I already had 10+ years of background in IT. The goal was to check School42 methodology from the inside, revise my forgotten knowledge of the C programming language and just have fun. I finished this Piscine by becoming the first student in our local campus (in Kazan) who pass all exams with 100% scores.
 
+<img src="/screenshots/photo_2022-11-13_15-29-03.jpg" width="300"><img src="/screenshots/photo_2022-11-13_15-29-04.jpg" width="300">
+
 ## Current status
 
 All solutions are provided as-is without any guarantees. This code was written on campus under the pressure of a tight schedule. But for most of the modules, I am really proud.
